@@ -1,0 +1,4 @@
+
+- Personal project: Daily Calories Calculator
+- Project Description: This is a simple program that asks the user for their age, weight, height, and activity level, then calculates an estimate of their daily calorie needs using the Mifflin–St Jeor equation (BMR=(10×weight in kg)+(6.25×height in cm)−(5×age)+5). The program will use different data types (strings, integers, floats, booleans), apply mathematical operations, and format the results neatly with f-strings. 
+<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/cd51bf5d-a415-40a5-8de8-6da7780c34d5" />
