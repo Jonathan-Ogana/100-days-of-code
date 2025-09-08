@@ -1,0 +1,3 @@
+
+- Personal project: Simple Username Generator
+- Project Description: This program will collect a person’s first name and last name using input(), format the data with string concatenation, count the characters in the generated username with len(), and display the results nicely using print() and the newline escape sequence (\n). <img width="1366" height="768" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/2e0fba5b-34cf-4633-9bea-e6c471e1f9a9" />
