@@ -1,7 +1,7 @@
 # 100 Days of Code Challenge
 
 This repository contains my daily progress as I learn Python and work towards becoming a Data Analyst.  
-Each day has its own folder with notes and code.
+Each day has its own folder with notes and project(s).
 
 ## Progress
 - [Day 1 Note](./Day01/notes.md) [Day 1 Project](./Day01/project.md)
